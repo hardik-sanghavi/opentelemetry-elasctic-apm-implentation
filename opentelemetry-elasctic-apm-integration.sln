@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opentelemetry-elasctic-apm-integration", "opentelemetry-elasctic-apm-integration\opentelemetry-elasctic-apm-integration.csproj", "{B26A9B21-8701-4B3D-98D6-D0E95B394DAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B26A9B21-8701-4B3D-98D6-D0E95B394DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26A9B21-8701-4B3D-98D6-D0E95B394DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26A9B21-8701-4B3D-98D6-D0E95B394DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26A9B21-8701-4B3D-98D6-D0E95B394DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DDF3CC5-B0BF-4EEA-988F-199279893250}
+	EndGlobalSection
+EndGlobal
